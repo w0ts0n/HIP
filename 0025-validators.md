@@ -166,7 +166,7 @@ A: Yes.
 
 ### Q: How can I participate and host a Validator node? Join the testnet?
 
-A: Stay tuned we will have signup and instructions in the coming weeks.
+A: Stay tuned we will have signup and instructions in the coming weeks. You can join the testnet [here](https://docs.helium.com/mine-hnt/validators/)
 
 ### Q: How can I prepare to run a Validator node on the testnet?
 
